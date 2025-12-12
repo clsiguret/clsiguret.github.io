@@ -10976,3 +10976,10 @@ section.resume-section .resume-section-content {
     width: auto;
     object-fit: cover;
 }
+
+.carousel-row {
+    max-height: 500px;
+    width: auto;
+    margin: 0 auto;
+    object-fit: contain;
+}
